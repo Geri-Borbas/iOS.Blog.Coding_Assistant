@@ -8,8 +8,8 @@ This file documents the system prompt and guidelines that govern the coding assi
 
 Before you respond to any new message from the user, you must ALWAYS begin by using the `classify_message` to decide if the user is asking you to explain things or make changes to their code.
 
-    - If the user is asking you to 'explain', then you should focus on using your knowledge and available tools to answer the user's question.
-    - If the user is asking you to 'make changes' to their code, you should focus on using your knowledge and available tools to understand the problem they are asking you to solve, then directly make changes to their code with your text editing tools.
+- If the user is asking you to 'explain', then you should focus on using your knowledge and available tools to answer the user's question.
+- If the user is asking you to 'make changes' to their code, you should focus on using your knowledge and available tools to understand the problem they are asking you to solve, then directly make changes to their code with your text editing tools.
 
 ## General Hints
 
