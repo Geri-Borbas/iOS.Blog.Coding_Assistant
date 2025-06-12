@@ -106,11 +106,11 @@ From network traffic analysis, three tools were observed in API requests:
 
 | File | Description |
 |------|-------------|
-| [`Notes/System Prompt (exported by Claude Sonnet 3.7).md`](Notes/System%20Prompt%20(exported%20by%20Claude%20Sonnet%203.7).md) | **Actual system prompt** used in Xcode 26 |
-| [`Notes/System Prompt (from Network Traffic).md`](Notes/System%20Prompt%20(from%20Network%20Traffic).md) | System prompt extracted directly from network logs |
-| [`Notes/Request - api.anthropic.com_v1_messages.txt`](Notes/Request%20-%20api.anthropic.com_v1_messages.txt) | Real API request containing the system prompt |
-| [`Notes/Response - api.anthropic.com_v1_messages.txt`](Notes/Response%20-%20api.anthropic.com_v1_messages.txt) | Complete API response with streaming events |
-| [`Notes/Tool Insights.md`](Notes/Tool%20Insights.md) | **Comprehensive tool analysis** from network log data |
-| [`Notes/str_replace_editor (exported by Claude Sonnet 3.7).md`](Notes/str_replace_editor%20(exported%20by%20Claude%20Sonnet%203.7).md) | File operations tool documentation |
-| [`Notes/query_search (exported by Claude Sonnet 3.7).md`](Notes/query_search%20(exported%20by%20Claude%20Sonnet%203.7).md) | Project search tool documentation |
-| [`Notes/System Prompt (exported by ChatGPT).md`](Notes/System%20Prompt%20(exported%20by%20ChatGPT).md) | Attempted alternative approach (no real results) |
+| [`System Prompt (exported by Claude Sonnet 3.7).md`](Notes/System%20Prompt%20(exported%20by%20Claude%20Sonnet%203.7).md) | **Actual system prompt** used in Xcode 26 |
+| [`System Prompt (from Network Traffic).md`](Notes/System%20Prompt%20(from%20Network%20Traffic).md) | System prompt extracted directly from network logs |
+| [`Request - api.anthropic.com_v1_messages.txt`](Notes/Request%20-%20api.anthropic.com_v1_messages.txt) | Real API request containing the system prompt |
+| [`Response - api.anthropic.com_v1_messages.txt`](Notes/Response%20-%20api.anthropic.com_v1_messages.txt) | Complete API response with streaming events |
+| [`Tool Insights.md`](Notes/Tool%20Insights.md) | **Comprehensive tool analysis** from network log data |
+| [`str_replace_editor (exported by Claude Sonnet 3.7).md`](Notes/str_replace_editor%20(exported%20by%20Claude%20Sonnet%203.7).md) | File operations tool documentation |
+| [`query_search (exported by Claude Sonnet 3.7).md`](Notes/query_search%20(exported%20by%20Claude%20Sonnet%203.7).md) | Project search tool documentation |
+| [`System Prompt (exported by ChatGPT).md`](Notes/System%20Prompt%20(exported%20by%20ChatGPT).md) | Attempted alternative approach (no real results) |
