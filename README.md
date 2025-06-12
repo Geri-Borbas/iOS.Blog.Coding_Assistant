@@ -114,13 +114,3 @@ From network traffic analysis, three tools were observed in API requests:
 | [`Notes/str_replace_editor (exported by Claude Sonnet 3.7).md`](Notes/str_replace_editor%20(exported%20by%20Claude%20Sonnet%203.7).md) | File operations tool documentation |
 | [`Notes/query_search (exported by Claude Sonnet 3.7).md`](Notes/query_search%20(exported%20by%20Claude%20Sonnet%203.7).md) | Project search tool documentation |
 | [`Notes/System Prompt (exported by ChatGPT).md`](Notes/System%20Prompt%20(exported%20by%20ChatGPT).md) | Attempted alternative approach (no real results) |
-
-### Network Log Files
-
-| File | Description |
-|------|-------------|
-| [`Tokens/Tokens/Raw_06-12-2025-09-29-25.folder/[174] Request - api.anthropic.com_v1_messages.txt`](Tokens/Tokens/Raw_06-12-2025-09-29-25.folder/[174]%20Request%20-%20api.anthropic.com_v1_messages.txt) | Initial session request with tool definitions |
-| [`Tokens/Tokens/Raw_06-12-2025-09-29-25.folder/[182] Request - api.anthropic.com_v1_messages.txt`](Tokens/Tokens/Raw_06-12-2025-09-29-25.folder/[182]%20Request%20-%20api.anthropic.com_v1_messages.txt) | Extended session with actual tool usage examples |
-| [`Tokens/Tokens/Raw_06-12-2025-09-29-25.folder/[187] Request - api.anthropic.com_v1_messages.txt`](Tokens/Tokens/Raw_06-12-2025-09-29-25.folder/[187]%20Request%20-%20api.anthropic.com_v1_messages.txt) | Complex file creation operations |
-| [`Tokens/Tokens/Raw_06-12-2025-09-29-25.folder/[193] Request - api.anthropic.com_v1_messages.txt`](Tokens/Tokens/Raw_06-12-2025-09-29-25.folder/[193]%20Request%20-%20api.anthropic.com_v1_messages.txt) | Final session with complete tool schemas |
-| [`Tokens/Errors/1/Error.txt`](Tokens/Errors/1/Error.txt) | Tool type validation error revealing additional tool types |
